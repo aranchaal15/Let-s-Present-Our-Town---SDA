@@ -1,0 +1,871 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202604272043498KFV11</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202604272043490FVWXQ</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>LET&apos;S PRESENT OUR TOWN!</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Situación de aprendizaje - Inglés</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>ARANCHA ÁLVAREZ LAMAS </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Esta propuesta fomenta el aprendizaje significativo, el uso real del idioma, el desarrollo de la competencia digital y el conocimiento del entorno local.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777311292577</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1777310459989-9nw9tuljx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>&quot;LET&apos;S PRESENT OUR TOWN!&quot;. Situación de Aprendizaje.</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>&quot;LET&apos;S PRESENT OUR TOWN!&quot;. Situación de Aprendizaje.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>&quot;LET&apos;S PRESENT OUR TOWN!&quot;. Situación de Aprendizaje.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777310459989-9nw9tuljx</odePageId>
+      <odeBlockId>block-1777310543297-jnvxmlp1a</odeBlockId>
+      <blockName>Descripción de la SdA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777310459989-9nw9tuljx</odePageId>
+          <odeBlockId>block-1777310543297-jnvxmlp1a</odeBlockId>
+          <odeIdeviceId>idevice-1777310543292-ygzr4yozn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La Situación de Aprendizaje “<strong>Let’s Present Our Town</strong>!” tiene como objetivo que el alumnado de 2º de ESO cree una guía turística digital en lengua inglesa sobre su localidad o comarca asturiana.</p>
+<p>A lo largo de esta SdA, el alumnado investigará sobre su entorno cercano (lugares de interés, tradiciones, gastronomía y cultura), desarrollando competencias comunicativas en inglés mediante la creación de productos digitales.</p>
+<p>El aprendizaje se basa en tareas significativas que culminan en la elaboración de una infografía interactiva y un vídeo explicativo, que podrán ser compartidos en la web del centro o en una feria escolar.</p>
+<p>Esta propuesta fomenta el aprendizaje significativo, el uso real del idioma, el desarrollo de la competencia digital y el conocimiento del entorno local. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777310543292-ygzr4yozn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La Situación de Aprendizaje “<strong>Let’s Present Our Town</strong>!” tiene como objetivo que el alumnado de 2º de ESO cree una guía turística digital en lengua inglesa sobre su localidad o comarca asturiana.</p>\n<p>A lo largo de esta SdA, el alumnado investigará sobre su entorno cercano (lugares de interés, tradiciones, gastronomía y cultura), desarrollando competencias comunicativas en inglés mediante la creación de productos digitales.</p>\n<p>El aprendizaje se basa en tareas significativas que culminan en la elaboración de una infografía interactiva y un vídeo explicativo, que podrán ser compartidos en la web del centro o en una feria escolar.</p>\n<p>Esta propuesta fomenta el aprendizaje significativo, el uso real del idioma, el desarrollo de la competencia digital y el conocimiento del entorno local. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777310459989-9nw9tuljx</odePageId>
+      <odeBlockId>block-1777310597811-hvwoka1rn</odeBlockId>
+      <blockName>Información general</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777310459989-9nw9tuljx</odePageId>
+          <odeBlockId>block-1777310597811-hvwoka1rn</odeBlockId>
+          <odeIdeviceId>idevice-1777310597807-siveg86lc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Etapa educativa y nivel</strong></p>
+<ul>
+<li>Educación Secundaria Obligatoria (ESO), 2º curso.</li>
+</ul>
+<p><strong>Áreas, materias y/o módulos implicados</strong></p>
+<ul>
+<li>Primera Lengua Extranjera: Inglés</li>
+<li>Geografía e Historia (contexto local, patrimonio y ubicación)</li>
+<li>Tecnología o Digitalización (creación multimedia)</li>
+<li>Educación Plástica y Visual (diseño de la infografía)<br /><strong></strong></li>
+</ul>
+<p><strong>Agrupamientos y organización espacial</strong></p>
+<ul>
+<li>Siguiendo los principios del Diseño Universal para el Aprendizaje (DUA), se utilizarán distintos tipos de agrupamiento:
+<ul>
+<li><strong style="font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);">Gran grupo:</strong><span style="font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);"> introducción, visionado de vídeos, lluvia de ideas y presentaciones finales.</span></li>
+<li><strong style="font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);">Grupos cooperativos </strong><span style="font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);">(2-3 alumnos): creación de la infografía y del vídeo (roles: guionista, diseñador, locutor, editor).</span></li>
+<li><strong style="font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);">Trabajo individual</strong><span style="font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);">: redacción de textos, reflexión, autoevaluación y revisión de vocabulario.</span></li>
+</ul>
+</li>
+<li><span style="font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);">El aula se organizará de manera flexible para facilitar el trabajo colaborativo y el uso de herramientas digitales.</span></li>
+</ul>
+<p><strong style="font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);">Temporalización</strong></p>
+<ul>
+<li><span style="font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);">La SdA se desarrollará a lo largo de 4 semanas:</span>
+<ul>
+<li><strong style="font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);">Semana 1</strong><span style="font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);">: visionado de vídeos turísticos en inglés, análisis de ejemplos, lluvia de ideas sobre la localidad, formación de grupos y reparto de roles.</span></li>
+<li><strong style="font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);">Semana 2</strong><span style="font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);">: investigación sobre lugares, tradiciones y gastronomía; redacción de textos descriptivos en inglés; elaboración del guion.</span></li>
+<li><strong style="font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);">Semana 3</strong><span style="font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);">: creación de materiales (grabación de vídeos, diseño de la guía digital e infografía interactiva).</span></li>
+<li><strong style="font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);">Semana 4</strong><span style="font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);">: presentación de los productos finales, exposición oral en inglés, autoevaluación y coevaluación.</span></li>
+</ul>
+</li>
+</ul>
+<p><strong style="font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);">Productos del alumnado</strong></p>
+<ul>
+<li><span style="font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);">El alumnado elaborará obligatoriamente:</span>
+<ul>
+<li><span style="font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);">Una infografía digital interactiva titulada “Discover Our Town”, que incluirá:</span>
+<ul>
+<li><span style="font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);">Mapa de la localidad con puntos interactivos</span></li>
+<li><span style="font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);">Lugares de interés</span></li>
+<li><span style="font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);">Gastronomía y tradiciones</span></li>
+<li><span style="font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);">Elementos multimedia (imágenes, audio o enlaces)</span></li>
+</ul>
+</li>
+<li><span style="font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);">Un vídeo colaborativo en inglés (2–4 minutos) en el que se presentará la localidad.</span></li>
+<li><span style="font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);">Una presentación oral en inglés de los productos realizados.</span></li>
+</ul>
+</li>
+</ul>
+<p><strong style="font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);">Herramientas tecnológicas y recursos</strong></p>
+<ul>
+<li><span style="font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);"><strong>Profesorado</strong>:</span>
+<ul>
+<li><span style="font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);">Microsoft Teams (gestión y organización)</span></li>
+<li><span style="font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);">PowerPoint / Genially (presentaciones)</span></li>
+<li><span style="font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);">CoRubrics (evaluación)</span></li>
+<li><span style="font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);">Microsoft 365 (comunicación)</span></li>
+</ul>
+</li>
+<li><span style="font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);"><strong>Alumnado</strong>:</span>
+<ul>
+<li><span style="font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);">Investigación: Google, Wikipedia, webs turísticas, YouTube</span></li>
+<li><span style="font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);">Redacción: Microsoft Word</span><span style="font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);"></span></li>
+<li><span style="font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);">Diseño: Canva, Genially</span></li>
+<li><span style="font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);">Vídeo: Clipchamp, CapCut, iMovie o WeVideo</span></li>
+<li><span style="font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);">Presentación: Genially, YouTube, Google Slides</span></li>
+<li><span style="font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);">Trabajo colaborativo: OneDrive, Padlet, Jamboard</span></li>
+<li><span style="font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);">Evaluación: formularios de Google y rúbricas</span></li>
+</ul>
+</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777310597807-siveg86lc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Etapa educativa y nivel</strong></p>\n<ul>\n<li>Educación Secundaria Obligatoria (ESO), 2º curso.</li>\n</ul>\n<p><strong>Áreas, materias y/o módulos implicados</strong></p>\n<ul>\n<li>Primera Lengua Extranjera: Inglés</li>\n<li>Geografía e Historia (contexto local, patrimonio y ubicación)</li>\n<li>Tecnología o Digitalización (creación multimedia)</li>\n<li>Educación Plástica y Visual (diseño de la infografía)<br /><strong></strong></li>\n</ul>\n<p><strong>Agrupamientos y organización espacial</strong></p>\n<ul>\n<li>Siguiendo los principios del Diseño Universal para el Aprendizaje (DUA), se utilizarán distintos tipos de agrupamiento:\n<ul>\n<li><strong style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);\">Gran grupo:</strong><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);\"> introducción, visionado de vídeos, lluvia de ideas y presentaciones finales.</span></li>\n<li><strong style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);\">Grupos cooperativos </strong><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);\">(2-3 alumnos): creación de la infografía y del vídeo (roles: guionista, diseñador, locutor, editor).</span></li>\n<li><strong style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);\">Trabajo individual</strong><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);\">: redacción de textos, reflexión, autoevaluación y revisión de vocabulario.</span></li>\n</ul>\n</li>\n<li><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);\">El aula se organizará de manera flexible para facilitar el trabajo colaborativo y el uso de herramientas digitales.</span></li>\n</ul>\n<p><strong style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);\">Temporalización</strong></p>\n<ul>\n<li><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);\">La SdA se desarrollará a lo largo de 4 semanas:</span>\n<ul>\n<li><strong style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);\">Semana 1</strong><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);\">: visionado de vídeos turísticos en inglés, análisis de ejemplos, lluvia de ideas sobre la localidad, formación de grupos y reparto de roles.</span></li>\n<li><strong style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);\">Semana 2</strong><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);\">: investigación sobre lugares, tradiciones y gastronomía; redacción de textos descriptivos en inglés; elaboración del guion.</span></li>\n<li><strong style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);\">Semana 3</strong><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);\">: creación de materiales (grabación de vídeos, diseño de la guía digital e infografía interactiva).</span></li>\n<li><strong style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);\">Semana 4</strong><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);\">: presentación de los productos finales, exposición oral en inglés, autoevaluación y coevaluación.</span></li>\n</ul>\n</li>\n</ul>\n<p><strong style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);\">Productos del alumnado</strong></p>\n<ul>\n<li><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);\">El alumnado elaborará obligatoriamente:</span>\n<ul>\n<li><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);\">Una infografía digital interactiva titulada “Discover Our Town”, que incluirá:</span>\n<ul>\n<li><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);\">Mapa de la localidad con puntos interactivos</span></li>\n<li><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);\">Lugares de interés</span></li>\n<li><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);\">Gastronomía y tradiciones</span></li>\n<li><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);\">Elementos multimedia (imágenes, audio o enlaces)</span></li>\n</ul>\n</li>\n<li><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);\">Un vídeo colaborativo en inglés (2–4 minutos) en el que se presentará la localidad.</span></li>\n<li><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);\">Una presentación oral en inglés de los productos realizados.</span></li>\n</ul>\n</li>\n</ul>\n<p><strong style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);\">Herramientas tecnológicas y recursos</strong></p>\n<ul>\n<li><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);\"><strong>Profesorado</strong>:</span>\n<ul>\n<li><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);\">Microsoft Teams (gestión y organización)</span></li>\n<li><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);\">PowerPoint / Genially (presentaciones)</span></li>\n<li><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);\">CoRubrics (evaluación)</span></li>\n<li><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);\">Microsoft 365 (comunicación)</span></li>\n</ul>\n</li>\n<li><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);\"><strong>Alumnado</strong>:</span>\n<ul>\n<li><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);\">Investigación: Google, Wikipedia, webs turísticas, YouTube</span></li>\n<li><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);\">Redacción: Microsoft Word</span><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);\"></span></li>\n<li><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);\">Diseño: Canva, Genially</span></li>\n<li><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);\">Vídeo: Clipchamp, CapCut, iMovie o WeVideo</span></li>\n<li><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);\">Presentación: Genially, YouTube, Google Slides</span></li>\n<li><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);\">Trabajo colaborativo: OneDrive, Padlet, Jamboard</span></li>\n<li><span style=\"font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); text-align: var(--bs-body-text-align);\">Evaluación: formularios de Google y rúbricas</span></li>\n</ul>\n</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>cd4ec5ed-a255-4a54-87de-ac09f92e5a48</odePageId>
+  <odeParentPageId>page-1777310459989-9nw9tuljx</odeParentPageId>
+  <pageName>Intención educativa</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Intención educativa</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>cd4ec5ed-a255-4a54-87de-ac09f92e5a48</odePageId>
+      <odeBlockId>block-1777310824334-2p3roz1qb</odeBlockId>
+      <blockName>Justificación de su desarrollo e impacto esperado</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>cd4ec5ed-a255-4a54-87de-ac09f92e5a48</odePageId>
+          <odeBlockId>block-1777310824334-2p3roz1qb</odeBlockId>
+          <odeIdeviceId>idevice-1777310824333-fgot4hzp3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta Situación de Aprendizaje permite al alumnado aprender inglés a través de un contexto cercano y significativo como es su propia localidad. Se fomenta el uso del idioma en situaciones reales de comunicación, desarrollando habilidades de expresión oral y escrita.</p>
+<p>Además, se promueve el conocimiento del entorno, el trabajo en equipo, la creatividad y la competencia digital. El impacto esperado es que el alumnado sea capaz de comunicar información relevante en inglés de forma eficaz y desarrollar una actitud activa hacia su aprendizaje.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777310824333-fgot4hzp3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta Situación de Aprendizaje permite al alumnado aprender inglés a través de un contexto cercano y significativo como es su propia localidad. Se fomenta el uso del idioma en situaciones reales de comunicación, desarrollando habilidades de expresión oral y escrita.</p>\n<p>Además, se promueve el conocimiento del entorno, el trabajo en equipo, la creatividad y la competencia digital. El impacto esperado es que el alumnado sea capaz de comunicar información relevante en inglés de forma eficaz y desarrollar una actitud activa hacia su aprendizaje.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>cd4ec5ed-a255-4a54-87de-ac09f92e5a48</odePageId>
+      <odeBlockId>block-1777310838652-y5mgzb7r1</odeBlockId>
+      <blockName>Relación con los ODS y retos del siglo XXI</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>cd4ec5ed-a255-4a54-87de-ac09f92e5a48</odePageId>
+          <odeBlockId>block-1777310838652-y5mgzb7r1</odeBlockId>
+          <odeIdeviceId>idevice-1777310838651-drdtsjrow</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta SdA se relaciona con:</p>
+<ul>
+<li><strong>ODS 4:</strong> Educación de calidad</li>
+<li><strong>ODS 11</strong>: Ciudades y comunidades sostenibles</li>
+<li><strong>ODS 8:</strong> Trabajo decente y crecimiento económico (turismo sostenible)<br /></li>
+</ul>
+<p>También fomenta<strong> competencias del siglo XXI </strong>como la creatividad, la colaboración, la comunicación y la competencia digital.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777310838651-drdtsjrow","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta SdA se relaciona con:</p>\n<ul>\n<li><strong>ODS 4:</strong> Educación de calidad</li>\n<li><strong>ODS 11</strong>: Ciudades y comunidades sostenibles</li>\n<li><strong>ODS 8:</strong> Trabajo decente y crecimiento económico (turismo sostenible)<br /></li>\n</ul>\n<p>También fomenta<strong> competencias del siglo XXI </strong>como la creatividad, la colaboración, la comunicación y la competencia digital.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777310469090-5n313p60i</odePageId>
+  <odeParentPageId>page-1777310459989-9nw9tuljx</odeParentPageId>
+  <pageName>Elementos curriculares</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Elementos curriculares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777310469090-5n313p60i</odePageId>
+      <odeBlockId>block-1777310911422-4veyaa34b</odeBlockId>
+      <blockName>Competencias clave</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777310469090-5n313p60i</odePageId>
+          <odeBlockId>block-1777310911422-4veyaa34b</odeBlockId>
+          <odeIdeviceId>idevice-1777310911420-lixxh7iib</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Competencia en comunicación lingüística</li>
+<li>Competencia digital</li>
+<li>Competencia personal, social y de aprender a aprender</li>
+<li>Competencia ciudadana</li>
+<li>Conciencia y expresión culturales</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777310911420-lixxh7iib","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Competencia en comunicación lingüística</li>\n<li>Competencia digital</li>\n<li>Competencia personal, social y de aprender a aprender</li>\n<li>Competencia ciudadana</li>\n<li>Conciencia y expresión culturales</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777310469090-5n313p60i</odePageId>
+      <odeBlockId>block-1777310977041-tfxortddq</odeBlockId>
+      <blockName>Competencias específicas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777310469090-5n313p60i</odePageId>
+          <odeBlockId>block-1777310977041-tfxortddq</odeBlockId>
+          <odeIdeviceId>idevice-1777310977039-gd6wxczgu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ol>
+<li>Comprender textos orales y escritos en lengua inglesa.</li>
+<li>Producir textos orales y escritos adecuados al contexto comunicativo.</li>
+<li>Interactuar en lengua inglesa de forma comprensible.</li>
+<li>Utilizar estrategias de mediación lingüística.<br /></li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777310977039-gd6wxczgu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ol>\n<li>Comprender textos orales y escritos en lengua inglesa.</li>\n<li>Producir textos orales y escritos adecuados al contexto comunicativo.</li>\n<li>Interactuar en lengua inglesa de forma comprensible.</li>\n<li>Utilizar estrategias de mediación lingüística.<br /></li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777310469090-5n313p60i</odePageId>
+      <odeBlockId>block-1777311007614-o5rkynwtz</odeBlockId>
+      <blockName>Saberes básicos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777310469090-5n313p60i</odePageId>
+          <odeBlockId>block-1777311007614-o5rkynwtz</odeBlockId>
+          <odeIdeviceId>idevice-1777311007612-02qjxz22o</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Vocabulario relacionado con turismo, cultura y gastronomía</li>
+<li>Estructuras gramaticales (presente simple, there is/are, adjetivos descriptivos)</li>
+<li>Estrategias de producción oral y escrita</li>
+<li>Uso de herramientas digitales<br /></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777311007612-02qjxz22o","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Vocabulario relacionado con turismo, cultura y gastronomía</li>\n<li>Estructuras gramaticales (presente simple, there is/are, adjetivos descriptivos)</li>\n<li>Estrategias de producción oral y escrita</li>\n<li>Uso de herramientas digitales<br /></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777310469090-5n313p60i</odePageId>
+      <odeBlockId>block-1777311035788-yvcvmcufv</odeBlockId>
+      <blockName>Criterios de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777310469090-5n313p60i</odePageId>
+          <odeBlockId>block-1777311035788-yvcvmcufv</odeBlockId>
+          <odeIdeviceId>idevice-1777311035787-1mb3zyzgz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Comprender información sobre lugares y cultura local</li>
+<li>Expresarse de forma clara y estructurada en inglés</li>
+<li>Participar en interacciones orales</li>
+<li>Crear productos digitales coherentes, creativos y bien organizados<br /> </li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777311035787-1mb3zyzgz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Comprender información sobre lugares y cultura local</li>\n<li>Expresarse de forma clara y estructurada en inglés</li>\n<li>Participar en interacciones orales</li>\n<li>Crear productos digitales coherentes, creativos y bien organizados<br /> </li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777310474510-rn92f251t</odePageId>
+  <odeParentPageId>page-1777310459989-9nw9tuljx</odeParentPageId>
+  <pageName>Metodologías activas</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Metodologías activas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777310474510-rn92f251t</odePageId>
+      <odeBlockId>block-1777311100776-biqgns5hf</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777310474510-rn92f251t</odePageId>
+          <odeBlockId>block-1777311100776-biqgns5hf</odeBlockId>
+          <odeIdeviceId>idevice-1777311100774-qkm5eqs6g</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se empleará el <strong>Aprendizaje Basado en Proyectos (ABP)</strong> como metodología principal, ya que el alumnado desarrolla un proyecto real con un producto final significativo.</p>
+<p>Además, se utilizarán:</p>
+<ul>
+<li><strong>Aprendizaje cooperativo</strong><br /></li>
+<li><strong>Aprendizaje basado en tareas</strong></li>
+</ul>
+<p>Estas metodologías favorecen la implicación del alumnado, el aprendizaje significativo y la autonomía.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777311100774-qkm5eqs6g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se empleará el <strong>Aprendizaje Basado en Proyectos (ABP)</strong> como metodología principal, ya que el alumnado desarrolla un proyecto real con un producto final significativo.</p>\n<p>Además, se utilizarán:</p>\n<ul>\n<li><strong>Aprendizaje cooperativo</strong><br /></li>\n<li><strong>Aprendizaje basado en tareas</strong></li>\n</ul>\n<p>Estas metodologías favorecen la implicación del alumnado, el aprendizaje significativo y la autonomía.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777310478345-2aw5cnmpa</odePageId>
+  <odeParentPageId>page-1777310459989-9nw9tuljx</odeParentPageId>
+  <pageName>Vinculación con los proyectos y programas del centro</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777310478345-2aw5cnmpa</odePageId>
+      <odeBlockId>block-1777311127751-qvhzbz8ez</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777310478345-2aw5cnmpa</odePageId>
+          <odeBlockId>block-1777311127751-qvhzbz8ez</odeBlockId>
+          <odeIdeviceId>idevice-1777311127749-x61la83z4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta SdA se vincula con:</p>
+<ul>
+<li><strong>PLEI</strong>: desarrollo de la lectura y escritura en lengua inglesa</li>
+<li><strong>PAD</strong>: atención a la diversidad mediante adaptación de tareas</li>
+<li><strong>PDC</strong>: refuerzo de competencias básicas</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777311127749-x61la83z4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta SdA se vincula con:</p>\n<ul>\n<li><strong>PLEI</strong>: desarrollo de la lectura y escritura en lengua inglesa</li>\n<li><strong>PAD</strong>: atención a la diversidad mediante adaptación de tareas</li>\n<li><strong>PDC</strong>: refuerzo de competencias básicas</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777310483223-k3x76nuqj</odePageId>
+  <odeParentPageId>page-1777310459989-9nw9tuljx</odeParentPageId>
+  <pageName>Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777310483223-k3x76nuqj</odePageId>
+      <odeBlockId>block-1777311166828-i71gj74sv</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777310483223-k3x76nuqj</odePageId>
+          <odeBlockId>block-1777311166828-i71gj74sv</odeBlockId>
+          <odeIdeviceId>idevice-1777311166826-bcwj1v1y8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Visualización de vídeos turísticos en inglés</li>
+<li>Exposición de los proyectos en el centro educativo o feria escolar</li>
+<li>Posible difusión en la web del centro</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777311166826-bcwj1v1y8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Visualización de vídeos turísticos en inglés</li>\n<li>Exposición de los proyectos en el centro educativo o feria escolar</li>\n<li>Posible difusión en la web del centro</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777310486571-i7k0bbvti</odePageId>
+  <odeParentPageId>page-1777310459989-9nw9tuljx</odeParentPageId>
+  <pageName>Atribución y descarga</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atribución y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Atribución y descarga</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777310486571-i7k0bbvti</odePageId>
+      <odeBlockId>block-1777311200690-zkcltoyqm</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777310486571-i7k0bbvti</odePageId>
+          <odeBlockId>block-1777311200690-zkcltoyqm</odeBlockId>
+          <odeIdeviceId>idevice-1777311200688-7cwjadd6q</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este recurso educativo se distribuye bajo licencia:</p>
+<ul>
+<li><strong>Creative Commons Reconocimiento - Compartir Igual 4.0 (CC BY-SA 4.0)</strong></li>
+</ul>
+<p>Se permite su uso, adaptación y difusión siempre que se reconozca la autoría y se mantenga la misma licencia.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777311200688-7cwjadd6q","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este recurso educativo se distribuye bajo licencia:</p>\n<ul>\n<li><strong>Creative Commons Reconocimiento - Compartir Igual 4.0 (CC BY-SA 4.0)</strong></li>\n</ul>\n<p>Se permite su uso, adaptación y difusión siempre que se reconozca la autoría y se mantenga la misma licencia.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
